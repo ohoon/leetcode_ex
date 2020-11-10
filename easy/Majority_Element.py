@@ -5,7 +5,7 @@ https://leetcode.com/problems/majority-element/
 '''
 
 class Solution:
-    def majorityElement(self, nums: List[int]) -> int:
+    def majorityElement(self, nums: list(int)) -> int:
         nums.sort()     # 오름차순 정렬
         return nums[len(nums) // 2]     # 배열의 가운뎃 값은 무조건 절반 이상 차지한 숫자가 됨
 
