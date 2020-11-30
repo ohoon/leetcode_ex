@@ -11,7 +11,7 @@ class Solution:
             if length % i != 0:
                 continue
                 
-            if s == s[:i] * (length // i):          # substring의 반복이 s와 같으면 True
+            if s == s[:i] * (length // i):          # substring의 반복이 s와 같으면 True 반환
                 return True
         
         return False
