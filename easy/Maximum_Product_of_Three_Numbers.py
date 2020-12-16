@@ -7,7 +7,7 @@ https://leetcode.com/problems/merge-two-binary-trees/
 from functools import reduce
 
 class Solution:
-    def maximumProduct(self, nums: List[int]) -> int:
+    def maximumProduct(self, nums: list(int)) -> int:
         if len(nums) <= 3:          # nums 요소가 3개 이하면 모든 요소의 곱 반환
             return reduce(lambda res, x: res * x, nums, 1)
         
