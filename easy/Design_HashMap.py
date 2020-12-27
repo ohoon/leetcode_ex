@@ -92,6 +92,6 @@ Memory Usage: 17.4 MB, less than 59.93% of Python3 online submissions for Design
 연결리스트를 사용해서 풀이하려고 했는데, 자꾸 한 테스트케이스에서 시간초과가 떠서 뭐가 문제일까 생각하다가
 remove하는 작업 중에 node.next = node.next.next 처럼 .next를 여러번 체이닝하는 과정이 시간을 생각보다 많이 잡아먹는다는 것을 깨달았다.
 그래서 prev 변수를 하나 만들어서 chaining 횟수를 줄이니까 성공적으로 테스트케이스를 통과하였다.
-많이 어려웠던 문제였다.
+많이 어려웠던 문제였다..
 
 '''
