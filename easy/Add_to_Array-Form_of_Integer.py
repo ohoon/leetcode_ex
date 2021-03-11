@@ -20,6 +20,11 @@ class Solution:
         return A
 
 '''
+Runtime: 260 ms, faster than 96.92% of Python3 online submissions for Add to Array-Form of Integer.
+Memory Usage: 14.9 MB, less than 93.14% of Python3 online submissions for Add to Array-Form of Integer.
+'''
+
+'''
 다른 풀이
 
 class Solution:

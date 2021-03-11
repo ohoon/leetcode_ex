@@ -26,3 +26,8 @@ class Solution:
                     answer.append(sumOfEven)
         
         return answer
+
+'''
+Runtime: 492 ms, faster than 96.44% of Python3 online submissions for Sum of Even Numbers After Queries.
+Memory Usage: 20.5 MB, less than 24.37% of Python3 online submissions for Sum of Even Numbers After Queries.
+'''
