@@ -1,3 +1,9 @@
+'''
+989.
+Add to Array-Form of Integer
+https://leetcode.com/problems/add-to-array-form-of-integer/
+'''
+
 class Solution:
     def addToArrayForm(self, A: list(int), K: int) -> list(int):
         cur = len(A) - 1					# A의 일의 자리부터 접근
