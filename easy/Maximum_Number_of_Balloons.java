@@ -1,7 +1,7 @@
 /*
 1189.
 Maximum Number of Balloons
-https://leetcode.com/problems/distance-between-bus-stops/
+https://leetcode.com/problems/maximum-number-of-balloons/
 */
 
 class Solution {
