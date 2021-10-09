@@ -40,6 +40,6 @@ class Solution {
 }
 
 /*
-Runtime: 20 ms, faster than 38.74% of Java online submissions for Combinations.
-Memory Usage: 40.6 MB, less than 32.57% of Java online submissions for Combinations.
+Runtime: 26 ms, faster than 77.46% of Java online submissions for Find Duplicate File in System.
+Memory Usage: 48 MB, less than 76.39% of Java online submissions for Find Duplicate File in System.
 */
